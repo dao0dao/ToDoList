@@ -23,6 +23,8 @@ body {
 }
 
 .smallBody {
+  width: 100%;
+  max-width: 600px;
   margin: 50px;
   border: 1px solid #dddddd;
   border-radius: 10px;
@@ -62,7 +64,7 @@ body {
 }
 
 .smallHeader {
-  width: 80vw;
+  width: 100%;
   max-width: 600px;
   height: 150px;
   border-radius: 10px 10px 0 0;
