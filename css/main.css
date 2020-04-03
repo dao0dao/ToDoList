@@ -167,7 +167,7 @@ body {
   top: 120px;
   width: 90%;
   max-width: 600px;
-  height: 200px;
+  height: 220px;
   border-radius: 10px;
   margin: 10px;
   text-align: center;
@@ -205,6 +205,10 @@ body {
 
 .popUp .btnAccept {
   color: #119600;
+}
+
+.popUp .btnAccept:active {
+  margin: 5.4px 60px
 }
 
 .popUp .btnAccept:active {
